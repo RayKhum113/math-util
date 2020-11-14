@@ -1,4 +1,4 @@
-#Welcome to math Utility repository
+# Welcome to math Utility repository
 you will find in this repo my own code
 regarding to most common math methods, e.g.
 getFactorial()~n!
